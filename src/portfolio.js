@@ -29,7 +29,7 @@ const socialMediaLinks = {
   gmail: "yashvardhan513@gmail.com",
   facebook: "https://www.facebook.com/profile.php?id=100039280729807",
   medium: "https://yash-dn.medium.com/",
-  twitter: "https://www.facebook.com/profile.php?id=100039280729807",
+  twitter: "https://twitter.com/Yash_dn",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };

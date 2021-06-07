@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.4b5bc672.chunk.css",
+    "main.js": "/developerFolio/static/js/main.803e1153.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.803e1153.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.28cd76cf.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.28cd76cf.js.map",
+    "static/js/2.21e0061b.chunk.js": "/developerFolio/static/js/2.21e0061b.chunk.js",
+    "static/js/2.21e0061b.chunk.js.map": "/developerFolio/static/js/2.21e0061b.chunk.js.map",
+    "static/css/3.bc85b1b3.chunk.css": "/developerFolio/static/css/3.bc85b1b3.chunk.css",
+    "static/js/3.7d26c151.chunk.js": "/developerFolio/static/js/3.7d26c151.chunk.js",
+    "static/js/3.7d26c151.chunk.js.map": "/developerFolio/static/js/3.7d26c151.chunk.js.map",
+    "static/css/4.5c57288c.chunk.css": "/developerFolio/static/css/4.5c57288c.chunk.css",
+    "static/js/4.3e19ea36.chunk.js": "/developerFolio/static/js/4.3e19ea36.chunk.js",
+    "static/js/4.3e19ea36.chunk.js.map": "/developerFolio/static/js/4.3e19ea36.chunk.js.map",
+    "index.html": "/developerFolio/index.html",
+    "precache-manifest.b4086ae76345f9d5615753d0df36f993.js": "/developerFolio/precache-manifest.b4086ae76345f9d5615753d0df36f993.js",
+    "service-worker.js": "/developerFolio/service-worker.js",
+    "static/css/3.bc85b1b3.chunk.css.map": "/developerFolio/static/css/3.bc85b1b3.chunk.css.map",
+    "static/css/4.5c57288c.chunk.css.map": "/developerFolio/static/css/4.5c57288c.chunk.css.map",
+    "static/css/main.4b5bc672.chunk.css.map": "/developerFolio/static/css/main.4b5bc672.chunk.css.map",
+    "static/js/2.21e0061b.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.21e0061b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.847627bf.ttf",
+    "static/media/ISM_logo.png": "/developerFolio/static/media/ISM_logo.644cc984.png",
+    "static/media/acm-logo.jpg": "/developerFolio/static/media/acm-logo.cde7daf2.jpg",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
+    "static/media/hack-logo.jpg": "/developerFolio/static/media/hack-logo.8d8c584b.jpg",
+    "static/media/layer-logo.svg": "/developerFolio/static/media/layer-logo.d226a9a4.svg",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nighthawk-logo.svg": "/developerFolio/static/media/nighthawk-logo.a3fcb027.svg",
+    "static/media/overflow-logo.jpeg": "/developerFolio/static/media/overflow-logo.debf3d19.jpeg",
+    "static/media/score-logo.jpeg": "/developerFolio/static/media/score-logo.3f29a174.jpeg",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28cd76cf.js",
+    "static/js/2.21e0061b.chunk.js",
+    "static/css/main.4b5bc672.chunk.css",
+    "static/js/main.803e1153.chunk.js"
+  ]
+}

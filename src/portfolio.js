@@ -166,29 +166,52 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Open-Source ❤️",
+  subtitle: "Some of the best Communities I have had which helped me grow!",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/score-logo.jpeg"),
+      projectName: "SCoRe Lab/Webiu",
+      projectDesc: "A generalized website builder built using React Js and Gatsby Js which magnificantly eases the process of getting a website up and running",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Explore Repository",
+          url: "https://github.com/scorelab/Webiu"
+        },
+        {
+          name: "Website",
+          url: "https://scorelab.org/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/layer-logo.svg"),
+      projectName: "Layer5 | Layer5",
+      projectDesc: "The Layer5 community represents the largest collection of service mesh projects and their maintainers in the world.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Explore Repository",
+          url: "https://github.com/layer5io/layer5"
+        },
+        {
+          name: "Website",
+          url: "https://layer5.io/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nighthawk-logo.svg"),
+      projectName: "Layer5 | GetNighthawk",
+      projectDesc: "Nighthawk is a Layer 7 (HTTP/HTTPS/HTTP2) performance characterization tool. Nighthawk is Envoy’s load generator and is written in C++",
+      footerLink: [
+        {
+          name: "Explore Repository",
+          url: "https://github.com/layer5io/getnighthawk"
+        },
+        {
+          name: "Website",
+          url: "https://getnighthawk.dev/"
         }
       ]
     }

@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.4b5bc672.chunk.css",
-    "main.js": "/developerFolio/static/js/main.803e1153.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.803e1153.chunk.js.map",
-    "runtime-main.js": "/developerFolio/static/js/runtime-main.28cd76cf.js",
-    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.28cd76cf.js.map",
-    "static/js/2.21e0061b.chunk.js": "/developerFolio/static/js/2.21e0061b.chunk.js",
-    "static/js/2.21e0061b.chunk.js.map": "/developerFolio/static/js/2.21e0061b.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.a0b9278d.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.a0b9278d.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.09de2b5f.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.09de2b5f.js.map",
+    "static/js/2.01f0a8f4.chunk.js": "/developerFolio/static/js/2.01f0a8f4.chunk.js",
+    "static/js/2.01f0a8f4.chunk.js.map": "/developerFolio/static/js/2.01f0a8f4.chunk.js.map",
     "static/css/3.bc85b1b3.chunk.css": "/developerFolio/static/css/3.bc85b1b3.chunk.css",
-    "static/js/3.7d26c151.chunk.js": "/developerFolio/static/js/3.7d26c151.chunk.js",
-    "static/js/3.7d26c151.chunk.js.map": "/developerFolio/static/js/3.7d26c151.chunk.js.map",
+    "static/js/3.223eda9d.chunk.js": "/developerFolio/static/js/3.223eda9d.chunk.js",
+    "static/js/3.223eda9d.chunk.js.map": "/developerFolio/static/js/3.223eda9d.chunk.js.map",
     "static/css/4.5c57288c.chunk.css": "/developerFolio/static/css/4.5c57288c.chunk.css",
-    "static/js/4.3e19ea36.chunk.js": "/developerFolio/static/js/4.3e19ea36.chunk.js",
-    "static/js/4.3e19ea36.chunk.js.map": "/developerFolio/static/js/4.3e19ea36.chunk.js.map",
+    "static/js/4.e13614c6.chunk.js": "/developerFolio/static/js/4.e13614c6.chunk.js",
+    "static/js/4.e13614c6.chunk.js.map": "/developerFolio/static/js/4.e13614c6.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.b4086ae76345f9d5615753d0df36f993.js": "/developerFolio/precache-manifest.b4086ae76345f9d5615753d0df36f993.js",
+    "precache-manifest.f9a64d66de911615f8b1994aa585b518.js": "/developerFolio/precache-manifest.f9a64d66de911615f8b1994aa585b518.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.bc85b1b3.chunk.css.map": "/developerFolio/static/css/3.bc85b1b3.chunk.css.map",
     "static/css/4.5c57288c.chunk.css.map": "/developerFolio/static/css/4.5c57288c.chunk.css.map",
     "static/css/main.4b5bc672.chunk.css.map": "/developerFolio/static/css/main.4b5bc672.chunk.css.map",
-    "static/js/2.21e0061b.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.21e0061b.chunk.js.LICENSE.txt",
+    "static/js/2.01f0a8f4.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.01f0a8f4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.847627bf.ttf",
     "static/media/ISM_logo.png": "/developerFolio/static/media/ISM_logo.644cc984.png",
     "static/media/acm-logo.jpg": "/developerFolio/static/media/acm-logo.cde7daf2.jpg",
@@ -35,9 +35,9 @@
     "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28cd76cf.js",
-    "static/js/2.21e0061b.chunk.js",
+    "static/js/runtime-main.09de2b5f.js",
+    "static/js/2.01f0a8f4.chunk.js",
     "static/css/main.4b5bc672.chunk.css",
-    "static/js/main.803e1153.chunk.js"
+    "static/js/main.a0b9278d.chunk.js"
   ]
 }
